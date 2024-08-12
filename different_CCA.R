@@ -60,7 +60,7 @@ cca.mai2 <- function(xmat, ymat, aC, bC)
 
 
 #--------- WCCA (Willms 201?)-----------------------
-source("~/Dropbox/Sparse_CCA/Annotated Codes/SAR.R")
+#source("~/Dropbox/Sparse_CCA/Annotated Codes/SAR.R")
 # Takes too long to run 
 cca_sar <- function(xmat, ymat)
 {
